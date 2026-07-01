@@ -289,7 +289,7 @@ Project Guide & Academic Advisor
 
 # Acknowledgements
 
-The project team sincerely expresses gratitude to **Prof. S. K. Awaze** for his valuable guidance, technical expertise, and continuous support throughout the design, development, testing, and documentation of the **Titan 72V Electric Vehicle Racing Battery Pack Using Smart BMS**.
+The project team sincerely expresses gratitude to **Prof. S. K. Awaze** for her valuable guidance, technical expertise, and continuous support throughout the design, development, testing, and documentation of the **Titan 72V Electric Vehicle Racing Battery Pack Using Smart BMS**.
 
 We also thank the Department of Electrical Engineering and our institution for providing the facilities and encouragement required to successfully complete this project.
 
@@ -302,7 +302,8 @@ Electric Vehicle, Formula Student, Lithium-Ion Battery, Battery Pack, Smart BMS,
 ---
 
 # Copyright & License
-
+ 
+This project is released under the **MIT License**
 **Copyright © 2026**
 
 **Authors:**
